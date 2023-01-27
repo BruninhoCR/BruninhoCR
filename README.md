@@ -1,5 +1,5 @@
 
-### Olá ! Meu nome é Bruno César 👇
+### Olá ! Meu nome é Bruno César 
 
 💻 - Estou em busca de oportunidades dentro da área de TI e Programação.  
 📚 - Estudante de Análise e Desenvlvimento de Sistemas.
