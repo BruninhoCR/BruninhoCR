@@ -4,6 +4,7 @@
 
 💻 - Estou em busca de oportunidades dentro da área de TI e Programação.  
 📚 - Estudante de Análise e Desenvlvimento de Sistemas.
+🎬 - Nas horas vagas gravo alguns vídeos.
 
 -----------------------------------------------------------------------------
 
