@@ -2,9 +2,9 @@
 ### Olá ! Meu nome é Bruno César 🖖🏽
 -------------------------------------------------------------
 
-💻 - Estou em busca de oportunidades dentro da área de TI e Programação.  
-📚 - Estudante de Análise e Desenvlvimento de Sistemas.
-🎬 - Nas horas vagas gravo alguns vídeos.
+💻 - Estou em busca de oportunidades dentro da área de TI e Programação.    
+📚 - Estudante de Análise e Desenvlvimento de Sistemas.         
+🎬 - Compartilho meus aprendizados e rotinas de estudos no Youtube..
 
 -----------------------------------------------------------------------------
 
