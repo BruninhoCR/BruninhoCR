@@ -58,7 +58,7 @@ Me chamo Bruno César Rocha, tenho 23 anos e sou natural de Minas Gerais. Sou es
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Minhas Estatísticas
 
 <p>
   <img 
