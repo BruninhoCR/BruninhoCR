@@ -64,7 +64,7 @@ Me chamo Bruno César Rocha, tenho 23 anos e sou natural de Minas Gerais. Sou es
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=BruninhoCR&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
