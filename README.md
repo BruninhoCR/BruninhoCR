@@ -2,13 +2,7 @@
 
 **`Front-End Developer`**
 
-Me chamo Bruno César Rocha, tenho 23 anos e sou natural de Minas Gerais. Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Focado em Desenvolvimento Web, dedico-me à criação de interfaces funcionais, responsivas e voltadas à experiência do usuário. Estou sempre em busca de aprimorar habilidades técnicas e transformar ideias em soluções que gerem valor para empresas e usuários.
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="" alt="instagram logo"  />
-</div>
+Me chamo Bruno César Rocha, tenho 24 anos e sou natural de Minas Gerais. Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Focado em Desenvolvimento Web, dedico-me à criação de interfaces funcionais, responsivas e voltadas à experiência do usuário. Estou sempre em busca de aprimorar habilidades técnicas e transformar ideias em soluções que gerem valor para empresas e usuários.
 
 ##
 
